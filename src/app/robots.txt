@@ -1,9 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /account
-Disallow: /checkout
-Disallow: /cart
-Disallow: /wishlist
-
-Sitemap: https://freshcart-six-taupe.vercel.app/sitemap.xml
-Host: https://freshcart-six-taupe.vercel.app/
